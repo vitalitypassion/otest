@@ -1,0 +1,6 @@
+services:
+  mooncake:
+    build: .
+    network_mode: bridge
+    ports:
+      - "80:50132"
