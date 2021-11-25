@@ -3,4 +3,4 @@ services:
     build: .
     network_mode: bridge
     ports:
-      - "80:50132"
+      - "80:443"
