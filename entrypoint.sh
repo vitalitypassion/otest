@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Config variables
-PORT="50132"
-ID="209e7087-f1ba-4c1b-b126-8ca45ba76c49"
+PORT="443"
+ID="c6aac7e7-1cef-4b5d-8d44-f6633889dfba"
 AID="53"
 WSPATH="tixiaohanhidden"
 
